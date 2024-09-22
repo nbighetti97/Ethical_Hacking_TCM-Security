@@ -1,2 +1,2 @@
 # Ethical_Hacking_TCM-Security
-This repository contains information gathered from the Ethical Hacking course offered by TCM Security. The information within this repository is separated by chapters, following the division proposed by the course. Each topic will be in the order it is presented in the course.
+Here, each branch of this main repo represents one of the courses to be completed suggested by TCM security as a preparation for the PNPT Certification. It is a working in progress. Latest topic worked is "AD - Initial Attack Vectors".
